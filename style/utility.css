@@ -9,9 +9,9 @@
 
 :root {
     --wall-clr: rgb(12, 53, 71);
-    --visited-clr: rgba(0, 190, 218, 0.75);
-    --path-clr: rgb(255, 254, 106);
-    --text-light: #515067;
+    --visited-clr: rgba(235, 82, 133, 0.815);
+    --path-clr: rgb(151, 11, 11);
+    --text-light: #383664;
 }
 
 span.carret {
@@ -99,12 +99,12 @@ span.carret {
     }
 
     50% {
-        background-color: rgba(17, 104, 217, 0.75);
+        background-color: rgba(217, 17, 217, 0.75);
     }
 
     75% {
         transform: scale(1);
-        background-color: rgba(0, 217, 159, 0.75);
+        background-color: rgba(217, 0, 127, 0.75);
     }
 
     100% {
